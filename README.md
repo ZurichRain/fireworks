@@ -1,4 +1,4 @@
-A spectacular fireworks display !!!!
+🎆 A spectacular fireworks display !!!!
 
 ### Install
 ```shell
