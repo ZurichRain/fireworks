@@ -14,5 +14,5 @@ python fireworks.py
 ### show
 
 <div align="center">
-  <img src="fireworks.jpg" alt="fireworks" width="300"><br>
+  <img src="show.jpg" alt="fireworks" width="300"><br>
 </div></br>
