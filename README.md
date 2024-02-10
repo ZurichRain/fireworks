@@ -11,7 +11,7 @@ pip install pygame
 python fireworks.py
 ```
 
-### show
+### Show
 
 <div align="center">
   <img src="show.jpg" alt="fireworks" width="300"><br>
